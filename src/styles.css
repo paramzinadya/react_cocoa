@@ -230,3 +230,7 @@ footer {
     margin-bottom: 10px;
   }
 }
+.input-error {
+  border: 2px solid red !important;
+  background-color: #3a1d1d !important;
+}
